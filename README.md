@@ -69,4 +69,4 @@ These happen in **your own** `your-username.github.io` repo.
 - [AWS Educate](https://aws.amazon.com/education/awseducate/): free cloud learning
 - [AWS Free Tier](https://aws.amazon.com/free/): try AWS with up to $200 in credits. Pick the **Free plan** at sign-up.
 
-Questions? Come to the next ATIS meeting or reach us at [ATIS contact].
+Questions? Come to the next ATIS meeting or follow us on Instagram @psuabington_atis: https://www.instagram.com/psuabington_atis/
